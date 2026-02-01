@@ -1,3 +1,21 @@
 [submodule "always2"]
 	path = always2
 	url = https://github.com/Alexis-Cervantes/always2.git
+[submodule "always1"]
+	path = always1
+	url = https://github.com/Alexis-Cervantes/always1
+[submodule "always3"]
+	path = always3
+	url = https://github.com/Alexis-Cervantes/always3
+[submodule "always4"]
+	path = always4
+	url = https://github.com/Alexis-Cervantes/always4
+[submodule "always5"]
+	path = always5
+	url = https://github.com/Alexis-Cervantes/always5
+[submodule "always6"]
+	path = always6
+	url = https://github.com/Alexis-Cervantes/always6
+[submodule "always7"]
+	path = always7
+	url = https://github.com/Alexis-Cervantes/always7
