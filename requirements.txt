@@ -1,0 +1,7 @@
+distlib==0.4.0
+filelock==3.20.2
+platformdirs==4.5.1
+setuptools==80.9.0
+virtualenv==20.35.4
+virtualenvwrapper-win==1.2.7
+wheel==0.45.1
