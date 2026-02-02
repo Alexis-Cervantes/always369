@@ -3,19 +3,19 @@
 	url = https://github.com/Alexis-Cervantes/always2.git
 [submodule "always1"]
 	path = always1
-	url = https://github.com/Alexis-Cervantes/always1
+	url = https://github.com/Alexis-Cervantes/always1.git
 [submodule "always3"]
 	path = always3
-	url = https://github.com/Alexis-Cervantes/always3
+	url = https://github.com/Alexis-Cervantes/always3.git
 [submodule "always4"]
 	path = always4
-	url = https://github.com/Alexis-Cervantes/always4
+	url = https://github.com/Alexis-Cervantes/always4.git
 [submodule "always5"]
 	path = always5
-	url = https://github.com/Alexis-Cervantes/always5
+	url = https://github.com/Alexis-Cervantes/always5.git
 [submodule "always6"]
 	path = always6
-	url = https://github.com/Alexis-Cervantes/always6
+	url = https://github.com/Alexis-Cervantes/always6.git
 [submodule "always7"]
 	path = always7
-	url = https://github.com/Alexis-Cervantes/always7
+	url = https://github.com/Alexis-Cervantes/always7.git
