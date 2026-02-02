@@ -1,9 +1,9 @@
-[submodule "always2"]
-	path = always2
-	url = https://github.com/Alexis-Cervantes/always2.git
 [submodule "always1"]
 	path = always1
 	url = https://github.com/Alexis-Cervantes/always1.git
+[submodule "always2"]
+	path = always2
+	url = https://github.com/Alexis-Cervantes/always2.git
 [submodule "always3"]
 	path = always3
 	url = https://github.com/Alexis-Cervantes/always3.git
